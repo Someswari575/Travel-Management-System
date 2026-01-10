@@ -25,23 +25,10 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
-# Misc
+# Misc temporary files
 *.log
 .cache/
 *.tmp
 *.temp
 *~
 *.swp
-# Node.js
-node_modules/
-dist/
-.env
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDEs
-.vscode/
-.idea/
-
