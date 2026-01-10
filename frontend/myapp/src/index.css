@@ -1,0 +1,28 @@
+/* plain CSS + small customizations (Bootstrap is the base) */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: #f7f8fb;
+  color: #0b1220;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand { font-weight: 700; }
+
+.hero {
+  background: linear-gradient(90deg, #0d6efd 0%, #6610f2 100%);
+  color: white;
+  padding: 40px 0;
+}
+
+.card-custom {
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(20, 20, 50, 0.06);
+  background: #fff;
+}
+
+.container-800 {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
