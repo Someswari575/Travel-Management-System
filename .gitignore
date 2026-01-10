@@ -32,3 +32,16 @@ Thumbs.db
 *.temp
 *~
 *.swp
+# Node.js
+node_modules/
+dist/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
