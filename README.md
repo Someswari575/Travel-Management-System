@@ -32,5 +32,5 @@ User actions such as searching, booking, and navigating between pages are handle
 Users can open the application in a web browser and explore available travel options. By selecting a suitable service and entering the required details, tickets can be booked easily. Additional information such as services and contact details can be accessed through the navigation menu.
 
 
-## 8. Final Summary
+## 8. Conclusion
 The Travel Management System offers a practical solution for managing travel bookings and related services. By using modern frameworks and backend integration, the project demonstrates effective web application development and provides a scalable foundation for future improvements.
