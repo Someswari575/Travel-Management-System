@@ -17,15 +17,14 @@ This project is a Travel Management System developed using HTML, CSS, JavaScript
 - Online booking form
 - Pickup and drop location 
 - Date and time selection
-- Contact / inquiry submission
+- Contact submission
 - Data stored in MySQL database
 
 
-## 5. Functional Highlights
-The system allows users to search for available travel options and book tickets based on their preferences. It dynamically updates content using React components and communicates with the backend for processing user requests. Users can also access service details and contact information through dedicated sections of the application.
+## 4. Functional Highlights
+The system allows users to search for available travel options and book tickets based on their preferences. It dynamically updates content using React components and communicates with the backend for processing user requests. Users can also access service details and contact information.
 
-
-## 6. Tools and Technologies
+## 5. Tools and Technologies
 - HTML for structuring web pages
 - CSS with Bootstrap for styling and responsiveness
 - JavaScript handles client-side logic
@@ -33,5 +32,5 @@ The system allows users to search for available travel options and book tickets 
 - Node.js is used on the server side to manage requests, process data, and support application functionality
 
 
-## 7. Conclusion
+## 6. Conclusion
 The Travel Management System offers a practical solution for managing travel bookings and related services. By using modern frameworks and backend integration, the project demonstrates effective web application development and provides a scalable foundation for future improvements.
