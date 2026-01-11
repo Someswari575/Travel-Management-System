@@ -17,7 +17,6 @@ The system allows users to search for available travel options and book tickets 
 
 
 ## 4. Tools and Technologies
-The application uses 
 - HTML for structuring web pages
 - CSS with Bootstrap for styling and responsiveness
 - JavaScript handles client-side logic
