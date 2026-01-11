@@ -28,11 +28,7 @@ The system allows users to search for available travel options and book tickets 
 User actions such as searching, booking, and navigating between pages are handled through event-driven programming. Forms are used to collect booking details, which are then processed by the backend. 
 
 
-## 6. Interface Design
-The user interface consists of a homepage, travel search and booking section, service listings, and a contact page. Navigation components allow users to move easily between different sections of the application. The layout is responsive and adapts well to desktops, tablets, and mobile devices.
-
-
-## 7. How to Use the Application
+## 6. How to Use the Application
 Users can open the application in a web browser and explore available travel options. By selecting a suitable service and entering the required details, tickets can be booked easily. Additional information such as services and contact details can be accessed through the navigation menu.
 
 
