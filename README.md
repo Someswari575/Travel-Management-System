@@ -25,7 +25,7 @@ The system allows users to search for available travel options and book tickets 
 
 
 ## 5. System Behavior
-User actions such as searching, booking, and navigating between pages are handled through event-driven programming. Forms are used to collect booking details, which are then processed by the backend. The application updates the interface dynamically.
+User actions such as searching, booking, and navigating between pages are handled through event-driven programming. Forms are used to collect booking details, which are then processed by the backend. 
 
 
 ## 6. Interface Design
