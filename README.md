@@ -6,10 +6,10 @@ This project is a Travel Management System developed using HTML, CSS, JavaScript
 
 
 ## 2. Main Objectives
-• To provide an easy platform for booking travel tickets
-• To display various travel services and related information
-• To manage user interactions efficiently through dynamic content
-• To ensure responsive design across different devices
+- To provide an easy platform for booking travel tickets
+- To display various travel services and related information
+- To manage user interactions efficiently through dynamic content
+- To ensure responsive design across different devices
 
 
 ## 3. Functional Highlights
