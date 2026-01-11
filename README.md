@@ -24,9 +24,5 @@ The system allows users to search for available travel options and book tickets 
 - Node.js is used on the server side to manage requests, process data, and support application functionality
 
 
-## 5. How to Use the Application
-Users can open the application in a web browser and explore available travel options. By selecting a suitable service and entering the required details, tickets can be booked easily. Additional information such as services and contact details can be accessed through the navigation menu.
-
-
-## 8. Conclusion
+## 5. Conclusion
 The Travel Management System offers a practical solution for managing travel bookings and related services. By using modern frameworks and backend integration, the project demonstrates effective web application development and provides a scalable foundation for future improvements.
