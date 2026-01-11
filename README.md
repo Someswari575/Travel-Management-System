@@ -22,7 +22,7 @@ This project is a Travel Management System developed using HTML, CSS, JavaScript
 
 
 ## 4. Functional Highlights
-The system allows users to search for available service options and book tickets based on their preferences. It dynamically updates content using React components and communicates with the backend for processing user requests. Users can also access service details and contact information.
+The system allows users to search for available service options and book tickets based on their preferences. It dynamically updates content using React components and communicates with the backend for processing user requests. Users can also access service details and contact information through dedicated sections of the application.
 
 ## 5. Tools and Technologies
 - HTML for structuring web pages
