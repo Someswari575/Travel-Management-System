@@ -24,11 +24,11 @@ This project is a Travel Management System developed using HTML, CSS, JavaScript
 
 ## 4. User Interface (UI)
 The UI is structured into the following sections:
-Navigation bar
-Home page with booking option
-Services page displaying available services
-Booking form with input fields
-Contact / Refer form
+- Navigation bar
+- Home page with booking option
+- Services page displaying available services
+- Booking form with input fields
+- Contact / Refer form
 
 
 ## 5. Functional Highlights
